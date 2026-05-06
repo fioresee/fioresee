@@ -16,14 +16,14 @@ Me chamo Arthur Fiorese, tenho 18 anos e sou natural de São Paulo. Atualmente, 
   <img 
     alt="Repositórios"
     title="Total de repositórios"
-    src="https://img.shields.io/badge/REPOS-21-FF5733?style=for-the-badge&labelColor=FF5733&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/REPOS-22-FF5733?style=for-the-badge&labelColor=FF5733&logo=github&logoColor=white"
   />
 </a>
     <a href="https://github.com/fioresee?tab=followers">
         <img 
   alt="Seguidores" 
   title="Me siga no GitHub" 
-  src="https://img.shields.io/github/followers/fioresee?color=2ea44f&labelColor=2ea44f&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
+  src="https://img.shields.io/github/followers/fioresee?style=for-the-badge&label=SEGUIDORES&logo=github"
         />
     </a>
 </p>
