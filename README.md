@@ -83,4 +83,4 @@ Me chamo Arthur Fiorese, tenho 18 anos e sou natural de São Paulo. Atualmente, 
 
 ![https://github-readme-stats-sigma-five.vercel.app/api?username=fioresee&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=fioresee&show_icons=true&theme=tokyonight)
 
-![Tecnologias](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fioresee&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8&v=3)
+![Tecnologias](https://github-readme-stats-siga-five.vercel.app/api/top-langs/?username=fioresee&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8&v=3)
